@@ -2,6 +2,8 @@
 <br><br>
 <b>Author</b>: xtr4nge [_AT_] gmail.com (@xtr4nge)
 <br><br>
+<b>Required:</b> python-pyaudio python-scapy
+<br><br>
 <div style="font-family: courier, monospace">
 Command line usage: ./stalker.py -i INTERFACE -m MAC {options}
 <br>
@@ -12,5 +14,3 @@ Command line usage: ./stalker.py -i INTERFACE -m MAC {options}
 <br>-l LOG            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Log path (default ./stalker.log)
 <br>-h                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        This help
 </div>
-<br>
-Required: python-pyaudio python-scapy
