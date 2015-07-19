@@ -12,3 +12,5 @@ Command line usage: ./stalker.py -i INTERFACE -m MAC {options}
 <br>-l LOG            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Log path (default ./stalker.log)
 <br>-h                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        This help
 </div>
+<br>
+Required: python-pyaudio python-scapy
